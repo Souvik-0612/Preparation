@@ -1,6 +1,6 @@
 # Preparation
 Prepare for Physics MSc exams
-# Classical mechanics
+## Classical mechanics
 * Newton's law
     * Plane polar form of position, velocity and accelaration
     * Collision and linear momentum conservation
@@ -29,3 +29,35 @@ Prepare for Physics MSc exams
     * Euler Lagrange equation
     * Legendre transformation 
     * Hamiltonian
+
+## Classical Electrodynamics
+
+## Electronics
+* Op-Amp
+* Analog
+    * Solid state physics
+    * Diode
+    * Transistor
+* Digital
+    * Sequential
+        * Clock
+        * Flipflop
+        * Register
+
+    * Combinational
+
+## Mathematical Physics
+* Probability
+* Fourier
+* Differential equation
+
+## Optics
+* Wave Optics
+    * Interference
+    * Diffraction
+    * Polarization
+* Matrix method in optics
+
+## Waves
+* Oscilations
+    * Simple Pendulum 
