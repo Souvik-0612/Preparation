@@ -51,6 +51,8 @@ Prepare for Physics MSc exams
 * Fourier
 * Differential equation
 * Complex analysis
+* Vector analysis
+* Linear algebra
 
 ## Optics
 * Wave Optics
@@ -79,5 +81,6 @@ Prepare for Physics MSc exams
 * Boundary-value problems(1D problems)
     * Infinite square well
     * Step-potential
+        * Tunneling effect
     * 
 ### Nuclear physics
