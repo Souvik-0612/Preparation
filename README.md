@@ -31,6 +31,12 @@ Prepare for Physics MSc exams
     * Hamiltonian
 
 ## Classical Electrodynamics
+* Electrostatics
+   * 
+* Magnetostatics
+   * 
+* Electrodynamics
+   * 
 
 ## Electronics
 * Op-Amp
