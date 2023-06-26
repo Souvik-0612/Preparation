@@ -31,6 +31,9 @@ Prepare for Physics MSc exams
     * Hamiltonian
 
 ## Classical Electrodynamics
+* Math for Electrodynamics
+    * Dirac Delta
+    >>> Some cool problem can be dealt with Dirac delta function
 * Electrostatics
    * 
 * Magnetostatics
