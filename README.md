@@ -50,6 +50,7 @@ Prepare for Physics MSc exams
 * Probability
 * Fourier
 * Differential equation
+* Complex analysis
 
 ## Optics
 * Wave Optics
@@ -61,3 +62,6 @@ Prepare for Physics MSc exams
 ## Waves
 * Oscilations
     * Simple Pendulum 
+    * Damped oscillator
+    * Forced oscillator
+* Wave on a string
