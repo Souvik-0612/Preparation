@@ -65,3 +65,11 @@ Prepare for Physics MSc exams
     * Damped oscillator
     * Forced oscillator
 * Wave on a string
+
+## Kinetic theory of gas and Thermodynamics
+### Kinetic theory of gas
+### Thermodynamics
+
+## Modern physics
+### Quantum Mechanics
+### Nuclear physics
