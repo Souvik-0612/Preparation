@@ -72,4 +72,12 @@ Prepare for Physics MSc exams
 
 ## Modern physics
 ### Quantum Mechanics
+#### QM history
+* Black-body radiation; Raleigh-Jeans law
+* 
+#### Modern QM(i.e, from Schrödinger equation)
+* Boundary-value problems(1D problems)
+    * Infinite square well
+    * Step-potential
+    * 
 ### Nuclear physics
