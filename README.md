@@ -42,7 +42,24 @@ Prepare for Physics MSc exams
     * Dirac Delta
     > Some cool problem can be dealt with Dirac delta function
 * Electrostatics
-   * 
+   * Columb's Law
+   * Electric Field
+   * Gauss,s Law
+   * Electric Potential
+   * Electrostatic Boundary Conditions
+   * Work & Energy in Electrostatics
+   * Conductors
+   * Laplace's Equation
+   * Boundary Conditions & Uniqueness Theorem
+   * The Method of Images
+   * Multipole Expansion
+   * Dielectrics & Polarization
+   * Field of a Polarized Object
+   * Gauss's Law in Presence of Dielectrics
+   * Boundary Conditions
+   * Linear Dielectrics
+   * Energy in Dielectric Systems
+   * Forces on Dielectrics  
 * Magnetostatics
    * 
 * Electrodynamics(Electromagnetism)
