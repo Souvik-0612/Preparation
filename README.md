@@ -121,7 +121,7 @@ Prepare for Physics MSc exams
     * Photoelectric effect
     * Crompton effect
     * Bohr model and atomic spectra
-> De Broglie's hypothesis brings the particle and wave in a same plane(or rather two side of *same coin*)!
+> **De Broglie's hypothesis** brings the particle and wave theory into two sides of *same coin*!
 * Quantization of electron
     * Davisson-Germer experiment
 #### Modern QM(i.e, from Schrödinger equation)
