@@ -96,7 +96,10 @@ Prepare for Physics MSc exams
 * Polarization
 ### Matrix method in optics(ray optics)
 * The heart:
-    * Translational matrix [$\begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & 0 \\ \frac{L}{n} & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}$]
+    * Translational matrix
+    ```math
+    \begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & 0 \\ \frac{L}{n} & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}
+    ```
     * Refraction matrix
 * **Consequence from system of lens**
     * Unit planes and nodal plane
