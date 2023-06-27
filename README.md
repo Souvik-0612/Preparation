@@ -46,7 +46,7 @@ Prepare for Physics MSc exams
 * Dirac Delta
 > Some cool problem can be dealt with Dirac delta function
 ### Electrostatics
-   * Columb's Law
+   * Coulomb's Law
    * Electric Field
    * Gauss's Law
    * Electric Potential
@@ -105,6 +105,7 @@ Prepare for Physics MSc exams
         * Newton's ring
         * Michelson's interferometer
     * Multiple beam interferometer
+        * Febry-Perot interferometry
 * Diffraction
     * Fraunhofer diffraction
     * Fresnel diffraction
