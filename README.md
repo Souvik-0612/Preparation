@@ -36,7 +36,7 @@ Prepare for Physics MSc exams
 * Legendre transformation 
 * Hamiltonian
 * Advanced topics:
-    * Noether's theorem:*For each symmetry of the Lagrangian, there is a conserved quantity.
+    * **Noether's theorem**:*For each symmetry of the Lagrangian, there is a conserved quantity.*
         * Homogeneity of space $\rightarrow$ conservation of linear momentum.
         * Isotropy of space $\rightarrow$ conservation of angular momentum
         * Time invarience $\rightarrow$ conservation of energy
