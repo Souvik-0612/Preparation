@@ -102,7 +102,7 @@ Prepare for Physics MSc exams
     ```
     * Refraction matrix
     ```math
-    \begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & \farc{n_1 - n_2}{R} \\ \0 & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}
+    \begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & \frac{n_1 - n_2}{R} \\ 0 & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}
     ```
 * **Consequence from system of lens**
     * Unit planes and nodal plane
