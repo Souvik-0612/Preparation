@@ -95,7 +95,7 @@ Prepare for Physics MSc exams
 ### Matrix method in optics(ray optics)
 * The heart:
     * Translational matrix
-    $$\begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & 0 \\ \frac{L}{n} & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}$$
+    $$ \begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & 0 \\ \frac{L}{n} & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix} $$
     * Refraction matrix
 
 ## Waves
