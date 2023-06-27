@@ -29,6 +29,11 @@ Prepare for Physics MSc exams
     * STR and eletro-magnetism
 * Lagrangian and Hamiltonian mechanics
     * Euler Lagrange equation
+        * From D'Alembert's principle
+        * From Action principle
+    * Noether's theorem:*For each symmetry of the Lagrangian, there is a conserved quantity.*
+        * Isotropy of space
+        * Time invarience $\rightarrow$ conservation of energy
     * Legendre transformation 
     * Hamiltonian
 
