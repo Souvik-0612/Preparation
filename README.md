@@ -32,11 +32,12 @@ Prepare for Physics MSc exams
     * Euler Lagrange equation
         * From D'Alembert's principle
         * From Action principle
-    * Noether's theorem:*For each symmetry of the Lagrangian, there is a conserved quantity.*
-        * Isotropy of space
-        * Time invarience $\rightarrow$ conservation of energy
     * Legendre transformation 
     * Hamiltonian
+    * Advanced topics:
+        * Noether's theorem:*For each symmetry of the Lagrangian, there is a conserved quantity.*
+            * Isotropy of space
+            * Time invarience $\rightarrow$ conservation of energy
 
 ## Classical Electrodynamics
 * Math for Electrodynamics
@@ -47,13 +48,13 @@ Prepare for Physics MSc exams
    * Electric Field
    * Gauss's Law
    * Electric Potential
-   * Electrostatic Boundary Conditions
+   * **Electrostatic Boundary Conditions**
    * Work & Energy in Electrostatics
    * Conductors
-   * Laplace's Equation
+   * **Laplace's Equation**
    * Boundary Conditions & Uniqueness Theorem
-   * The Method of Images
-   * Multipole Expansion
+   * *The Method of Images*
+   * *Multipole Expansion*
    * Dielectrics & Polarization
    * Field of a Polarized Object
    * Gauss's Law in Presence of Dielectrics
