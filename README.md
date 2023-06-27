@@ -14,7 +14,7 @@ Prepare for Physics MSc exams
     * Three **Conserved** quatity
         * Energy
         * Angular momentum
-        * Runge-Lenz Vector(for inverse square law $\vec A = \vec p \cross \vec L - m \alpha \hat r$)
+        * Runge-Lenz Vector(for inverse square law $\vec A = \vec p \times \vec L - m \alpha \hat r$)
     * Cool problems in Central force field
         * Captaring cross-section
         * Scattering in a central force field
