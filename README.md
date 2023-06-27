@@ -113,13 +113,13 @@ Prepare for Physics MSc exams
 ## Modern physics
 ### Quantum Mechanics
 #### QM history
-* Black-body radiation; Raleigh-Jeans law
+* Black-body radiation; Rayleigh-Jeans law
 * Photoelectric effect
 * Crompton effect
 * Bohr model and atomic spectra
 * De Broglie's hypothesis
 #### Modern QM(i.e, from Schrödinger equation)
-* Hisenberg uncertainity principle
+* Hisenberg uncertainty principle
 * Boundary-value problems(1D problems)
     * Infinite square well
     * Step-potential
