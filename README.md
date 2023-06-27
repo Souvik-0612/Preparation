@@ -101,6 +101,9 @@ Prepare for Physics MSc exams
     \begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & 0 \\ \frac{L}{n} & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}
     ```
     * Refraction matrix
+    ```math
+    \begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & \farc{n_1 - n_2}{R} \\ \0 & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}
+    ```
 * **Consequence from system of lens**
     * Unit planes and nodal plane
     * Establish the lens maker formula
