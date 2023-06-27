@@ -115,12 +115,15 @@ Prepare for Physics MSc exams
 
 ## Modern physics
 ### Quantum Mechanics
-#### QM history
-* Black-body radiation; Rayleigh-Jeans law
-* Photoelectric effect
-* Crompton effect
-* Bohr model and atomic spectra
-* De Broglie's hypothesis
+#### QM history(Famous experiments)
+* Quantization of light
+    * Black-body radiation; Rayleigh-Jeans law
+    * Photoelectric effect
+    * Crompton effect
+    * Bohr model and atomic spectra
+> De Broglie's hypothesis brings the particle and wave in a same plane(or rather two side of *same coin*)!
+* Quantization of electron
+    * Davisson-Germer experiment
 #### Modern QM(i.e, from Schrödinger equation)
 * Hisenberg uncertainty principle
 * Boundary-value problems(1D problems)
