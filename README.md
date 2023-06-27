@@ -9,13 +9,15 @@ Prepare for Physics MSc exams
     * Coriolis force
     * Azimuthal force
 * Central force
-    * Newton Gravitional problem(Klepler's problem)
-    * Effective potential
+    * Newton Gravitional problem(Klepler's problem)(Eccentricity $e = \sqrt{1+\frac{2EL^2}{m\alfha^2}}$ for inverse square law, $V(r) = -\frac{\alpha}{r^2$})
+    * Effective potential($V_{eff}(r) = \frac{L^2}{2mr^2} + V(r)$)
     * Three Conserved quatity
         * Energy
         * Angular momentum
         * Runge-Lenz Vector
-    * Scattering in a central force field
+    * Cool problems in Central force field
+        * Captaring cross-section
+        * Scattering in a central force field
 * All about rigid body motion
     * Torque
     * Angular momentum
@@ -33,12 +35,12 @@ Prepare for Physics MSc exams
 ## Classical Electrodynamics
 * Math for Electrodynamics
     * Dirac Delta
-    >>> Some cool problem can be dealt with Dirac delta function
+    > Some cool problem can be dealt with Dirac delta function
 * Electrostatics
    * 
 * Magnetostatics
    * 
-* Electrodynamics
+* Electrodynamics(Electromagnetism)
    * 
 
 ## Electronics
