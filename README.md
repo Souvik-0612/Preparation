@@ -9,7 +9,7 @@ Prepare for Physics MSc exams
     * Coriolis force
     * Azimuthal force
 * Central force
-    * Newton Gravitional problem(Klepler's problem)(Eccentricity $e = \sqrt{1+\frac{2EL^2}{m\alpha^2}}$ for inverse square law, $V(r) = -\frac{\alpha}{r^2$})
+    * Newton Gravitional problem(inverse square law, $V(r) = -\frac{\alpha}{r^2}$)(Klepler's problem )(Eccentricity $e = \sqrt{1+\frac{2EL^2}{m\alpha^2}}$)
     * Effective potential($V_{eff}(r) = \frac{L^2}{2mr^2} + V(r)$)
     * Three Conserved quatity
         * Energy
