@@ -68,12 +68,12 @@ Prepare for Physics MSc exams
    * 
 
 ## Electronics
-* Op-Amp
-* Analog
+### Op-Amp
+### Analog
     * Solid state physics
     * Diode
     * Transistor
-* Digital
+### Digital
     * Sequential
         * Clock
         * Flipflop
@@ -82,12 +82,12 @@ Prepare for Physics MSc exams
     * Combinational
 
 ## Mathematical Physics
-* Probability
-* Fourier
-* Differential equation
-* Complex analysis
-* Vector analysis
-* Linear algebra
+### Probability
+### Fourier
+### Differential equation
+### Complex analysis
+### Vector analysis
+### Linear algebra
 
 ## Optics
 ### Wave Optics
@@ -100,7 +100,9 @@ Prepare for Physics MSc exams
     * Refraction matrix
 * **Consequence from system of lens**
     * Unit planes and nodal plane
+    * Establish the lens maker formula
 * Thin lens
+    * Equivalent focus of two thin lenses
 
 ## Waves
 * Oscilations
@@ -121,7 +123,7 @@ Prepare for Physics MSc exams
     * Photoelectric effect
     * Crompton effect
     * Bohr model and atomic spectra
-> **De Broglie's hypothesis** brings the particle and wave theory into two sides of *same coin*!
+> **De Broglie's hypothesis** brings the particle and wave theory into two sides of a *same coin*!
 * Wave charecter of electron(i.e, matter wave)
     * Davisson-Germer experiment
 #### Modern QM(i.e, from Schrödinger equation)
