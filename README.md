@@ -44,7 +44,7 @@ Prepare for Physics MSc exams
 * Electrostatics
    * Columb's Law
    * Electric Field
-   * Gauss,s Law
+   * Gauss's Law
    * Electric Potential
    * Electrostatic Boundary Conditions
    * Work & Energy in Electrostatics
