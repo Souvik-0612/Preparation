@@ -10,19 +10,19 @@ Prepare for Physics MSc exams
     * Azimuthal force
 * Central force
     * Newton Gravitional problem(inverse square law, $V(r) = -\frac{\alpha}{r^2}$)(Klepler's problem )(Eccentricity $e = \sqrt{1+\frac{2EL^2}{m\alpha^2}}$)
-    * Effective potential( $V_{eff}(r) = \frac{L^2}{2mr^2} + V(r)$ )
-    * Three Conserved quatity
+    * Effective potential, $V_{eff}(r) = \frac{L^2}{2mr^2} + V(r)$
+    * Three **Conserved** quatity
         * Energy
         * Angular momentum
-        * Runge-Lenz Vector
+        * Runge-Lenz Vector(for inverse square law $\vec A = \vec p \cross \vec L - m \alpha \hat r$)
     * Cool problems in Central force field
         * Captaring cross-section
         * Scattering in a central force field
 * All about rigid body motion
-    * Torque
-    * Angular momentum
+    * Torque and angular momentum
     * Moment of inertia
     * Ellipsoid of inertia
+    * Euler equation
     * Gyroscope
 * Special theory of relativity
     * Kinematics 
@@ -31,7 +31,7 @@ Prepare for Physics MSc exams
 * Lagrangian and Hamiltonian mechanics
     * Euler Lagrange equation
         * From D'Alembert's principle
-        * From Action principle
+        * From Stationary-action principle
     * Legendre transformation 
     * Hamiltonian
     * Advanced topics:
