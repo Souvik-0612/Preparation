@@ -98,6 +98,9 @@ Prepare for Physics MSc exams
 * The heart:
     * Translational matrix [$\begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & 0 \\ \frac{L}{n} & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}$]
     * Refraction matrix
+* **Consequence from system of lens**
+    * Unit planes and nodal plane
+* Thin lens
 
 ## Waves
 * Oscilations
