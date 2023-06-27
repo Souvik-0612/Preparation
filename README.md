@@ -37,7 +37,7 @@ Prepare for Physics MSc exams
 * Hamiltonian
 * Advanced topics:
     * **Noether's theorem**:*For each symmetry of the Lagrangian, there is a conserved quantity.*
-        * Homogeneity of space $\rightarrow$ conservation of linear momentum.
+        * Homogeneity of space $\rightarrow$ conservation of linear momentum
         * Isotropy of space $\rightarrow$ conservation of angular momentum
         * Time invarience $\rightarrow$ conservation of energy
 
