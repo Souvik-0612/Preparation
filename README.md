@@ -122,7 +122,7 @@ Prepare for Physics MSc exams
     * Crompton effect
     * Bohr model and atomic spectra
 > **De Broglie's hypothesis** brings the particle and wave theory into two sides of *same coin*!
-* Quantization of electron
+* Wave charecter of electron(i.e, matter wave)
     * Davisson-Germer experiment
 #### Modern QM(i.e, from Schrödinger equation)
 * Hisenberg uncertainty principle
