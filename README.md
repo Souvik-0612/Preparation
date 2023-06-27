@@ -22,6 +22,7 @@ Prepare for Physics MSc exams
     * Torque
     * Angular momentum
     * Moment of inertia
+    * Ellipsoid of inertia
     * Gyroscope
 * Special theory of relativity
     * Kinematics 
