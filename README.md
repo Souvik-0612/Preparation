@@ -103,6 +103,7 @@ Prepare for Physics MSc exams
     * Division of amplitude
         * Thin flim interference
         * Newton's ring
+        * Michelson's interferometer
     * Multiple beam interferometer
 * Diffraction
     * Fraunhofer diffraction
@@ -154,3 +155,5 @@ Prepare for Physics MSc exams
         * Tunneling effect
     * 
 ### Nuclear physics
+
+## Statistical mechanics
