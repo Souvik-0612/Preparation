@@ -91,8 +91,20 @@ Prepare for Physics MSc exams
 
 ## Optics
 ### Wave Optics
+> Huygen's principle: each point of a wavefront is a *source* of secondary disturbance and the wavelets emanating from these points spread out in all directions with the speed of the wave. The *envelope* of these wavelets gives the shape of the new wavefront.
 * Interference
+    * Division of wavefront
+        * Young's double slit experiment
+        * Lloyd's mirror
+        * Fresnel biprism
+        * Fresnel two mirror
+    * Division of amplitude
+        * Thin flim interference
+        * Newton's ring
+    * Multiple beam interferometer
 * Diffraction
+    * Fraunhofer diffraction
+    * Fresnel diffraction
 * Polarization
 ### Matrix method in optics(ray optics)
 * The heart:
