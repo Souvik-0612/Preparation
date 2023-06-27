@@ -88,11 +88,15 @@ Prepare for Physics MSc exams
 * Linear algebra
 
 ## Optics
-* Wave Optics
-    * Interference
-    * Diffraction
-    * Polarization
-* Matrix method in optics
+### Wave Optics
+* Interference
+* Diffraction
+* Polarization
+### Matrix method in optics(ray optics)
+* The heart:
+    * Translational matrix
+    $$\begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & 0 \\ \frac{L}{n} & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}$$
+    * Refraction matrix
 
 ## Waves
 * Oscilations
