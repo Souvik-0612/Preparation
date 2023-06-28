@@ -22,7 +22,7 @@ Prepare for Physics MSc exams
 * Three **Conserved** quatity
     * Energy
     * Angular momentum
-    * Runge-Lenz Vector(for inverse square law $\vec A = \vec p \times \vec L - m \alpha \hat r$)
+    * Runge-Lenz Vector(\vec A = constant vector)(for inverse square law $\vec A = \vec p \times \vec L - m \alpha \hat r$)
 * Cool problems in Central force field
     * Captaring cross-section
     * Scattering in a central force field
@@ -31,6 +31,9 @@ Prepare for Physics MSc exams
 * Moment of inertia
 * Ellipsoid of inertia $$I = I_{xx}\cos^2\alpha + I_{yy}\cos^2\beta + I_{zz}\cos^2\gamma + 2I_{xy}\cos\alpha\cos\beta + 2 I_{yz}\cos\beta\cos\gamma + 2I_{zx}\cos\gamma\cos\alpha$$
 * Euler equation
+```math
+    \begin{bmatrix}\tau_1 \\ \tau2 \\ \tau3 \end{bmatrix} = \begin{bmatrix}I_1\dot\omega_1 + (I_3 - I_2)\omega_2 \omega_3 \\ I_2\dot\omega_2 + (I_1 - I_3)\omega_1 \omega_3 \\ I_3\dot\omega_3 + (I_2 - I_1)\omega_1 \omega_2 \end{bmatrix}
+    ```
 * Gyroscope
 ### Special theory of relativity
 * Kinematics 
