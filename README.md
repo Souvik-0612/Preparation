@@ -6,9 +6,16 @@ Prepare for Physics MSc exams
 * Plane polar form of position, velocity and accelaration
 * Collision and linear momentum conservation
 ### Non-inertial forces aka pseudo force
-* Centrifugal
-* Coriolis force
-* Azimuthal force
+* Fictitious forces
+    * Centrifugal
+    * **Coriolis force**
+    * Azimuthal force
+* Cools facts due to Coriolis force:
+    * Effect on weather
+    * Bands of Jupyter due to high angular speed than the Earth.
+![Jupyter](Jupiter.jpg)
+    * Simple pendulum can't stay in a plane. It changes the plane of motion. **Faucault pendulum**
+* Science behind tides 
 ### Central force
 * Newton Gravitional problem(inverse square law, $V(r) = -\frac{\alpha}{r^2}$)(Klepler's problem )(Eccentricity $e = \sqrt{1+\frac{2EL^2}{m\alpha^2}}$)
 * Effective potential, $V_{eff}(r) = \frac{L^2}{2mr^2} + V(r)$
@@ -22,7 +29,7 @@ Prepare for Physics MSc exams
 ### All about rigid body motion
 * Torque and angular momentum
 * Moment of inertia
-* Ellipsoid of inertia
+* Ellipsoid of inertia $$I = I_{xx}\cos^2\alpha + I_{yy}\cos^2\beta + I_{zz}\cos^2\gamma + 2I_{xy}\cos\alpha\cos\beta + 2 I_{yz}\cos\beta\cos\gamma + 2I_{zx}\cos\gamma\cos\alpha$$
 * Euler equation
 * Gyroscope
 ### Special theory of relativity
@@ -37,7 +44,7 @@ Prepare for Physics MSc exams
 * Hamiltonian
 * Advanced topics:
     * **Noether's theorem**:*For each symmetry of the Lagrangian, there is a conserved quantity.*
-        * Homogeneity of space $\rightarrow$ conservation of linear momentum.
+        * Homogeneity of space $\rightarrow$ conservation of linear momentum
         * Isotropy of space $\rightarrow$ conservation of angular momentum
         * Time invarience $\rightarrow$ conservation of energy
 
@@ -63,7 +70,7 @@ Prepare for Physics MSc exams
    * Boundary Conditions
    * Linear Dielectrics
    * Energy in Dielectric Systems
-   * Forces on Dielectrics  
+   * Forces on Dielectrics
 ### Magnetostatics
    * The Lorentz Force Law
    * The Biot-Savart Law
@@ -121,6 +128,7 @@ Prepare for Physics MSc exams
 ### Complex analysis
 ### Vector analysis
 ### Linear algebra
+* Eigen value & Eigen vector
 
 ## Optics
 ### Wave Optics
@@ -166,6 +174,8 @@ Prepare for Physics MSc exams
 
 ## Kinetic theory of gas and Thermodynamics
 ### Kinetic theory of gas
+* Maxwell's distribution
+* Einstein brownian motion
 ### Thermodynamics
 
 ## Modern physics
