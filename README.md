@@ -11,8 +11,11 @@ Prepare for Physics MSc exams
     * **Coriolis force**
     * Azimuthal force
 * Cools facts due to Coriolis force:
-    * Bands of Jupyter
+    * Effect on weather
+    * Bands of Jupyter due to high angular speed than the Earth.
 ![Jupyter](Jupiter.jpg)
+    * Simple pendulum can't stay in a plane. It changes the plane of motion. **Faucault pendulum**
+* Science behind tides 
 ### Central force
 * Newton Gravitional problem(inverse square law, $V(r) = -\frac{\alpha}{r^2}$)(Klepler's problem )(Eccentricity $e = \sqrt{1+\frac{2EL^2}{m\alpha^2}}$)
 * Effective potential, $V_{eff}(r) = \frac{L^2}{2mr^2} + V(r)$
