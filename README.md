@@ -31,9 +31,9 @@ Prepare for Physics MSc exams
 * Moment of inertia
 * Ellipsoid of inertia $$I = I_{xx}\cos^2\alpha + I_{yy}\cos^2\beta + I_{zz}\cos^2\gamma + 2I_{xy}\cos\alpha\cos\beta + 2 I_{yz}\cos\beta\cos\gamma + 2I_{zx}\cos\gamma\cos\alpha$$
 * Euler equation 
-    ```math
+```math
     \begin{bmatrix}\lambda_2 \\ y_2 \end{bmatrix} = \begin{bmatrix}1 & 0 \\ \frac{L}{n} & 1 \end{bmatrix} \begin{bmatrix}\lambda_1 \\ y_1 \end{bmatrix}
-    ```
+```
 * Gyroscope
 ### Special theory of relativity
 * Kinematics 
