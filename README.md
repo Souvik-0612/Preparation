@@ -29,7 +29,7 @@ Prepare for Physics MSc exams
 ### All about rigid body motion
 * Torque and angular momentum
 * Moment of inertia
-* Ellipsoid of inertia($I = I_{xx}\cos^2\alpha + I_{yy}\cos^2\beta + I_{zz}\cos^2\gamma + 2I_{xy}\cos\alpha\cos\beta + 2 $)
+* Ellipsoid of inertia $$I = I_{xx}\cos^2\alpha + I_{yy}\cos^2\beta + I_{zz}\cos^2\gamma + 2I_{xy}\cos\alpha\cos\beta + 2 I_{yz}\cos\beta\cos\gamma + 2I_{zx}\cos\gamma\cos\alpha$$
 * Euler equation
 * Gyroscope
 ### Special theory of relativity
