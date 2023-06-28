@@ -90,6 +90,7 @@ Prepare for Physics MSc exams
 ### Complex analysis
 ### Vector analysis
 ### Linear algebra
+* Eigen value & Eigen vector
 
 ## Optics
 ### Wave Optics
