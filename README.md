@@ -11,7 +11,8 @@ Prepare for Physics MSc exams
     * **Coriolis force**
     * Azimuthal force
 * Cools facts due to Coriolis force:
-    * Effect on weather
+    * Effect on weather in Earth
+![Earth](Earth.jpg)
     * Bands of Jupyter due to high angular speed than the Earth.
 ![Jupyter](Jupiter.jpg)
     * Simple pendulum can't stay in a plane. It changes the plane of motion. **Faucault pendulum**
