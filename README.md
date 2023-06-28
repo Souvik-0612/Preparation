@@ -88,23 +88,23 @@ Prepare for Physics MSc exams
       * Magnetic Susceptibility and Permeability
       * Ferromagnetism 
 
-<!-- ### Electrodynamics(Electromagnetism)
+### Electrodynamics(Electromagnetism)
    * Electromotive Force
      * Ohm's Law 
-     ** Electromotive Force
-     ** Motional emf 
+     * Electromotive Force
+     * Motional emf 
    * Electromagnetic Induction 
-     ** Faraday's Law 
-     ** The Induced Electric Field
-     ** Inductance 
-     ** Energy in Magnetic Fields
+     * Faraday's Law 
+     * The Induced Electric Field
+     * Inductance 
+     * Energy in Magnetic Fields
    *Maxwell's Equations
-     ** Electrodynamics Before Maxwell
-     ** How Maxwell Fixed Ampere's Law
-     ** Maxwell's Equations
-     ** Magnetic Charge 
-     ** Maxwell's Equations in Matter
-     ** Boundary Conditions -->
+     * Electrodynamics Before Maxwell
+     * How Maxwell Fixed Ampere's Law
+     * Maxwell's Equations
+     * Magnetic Charge 
+     * Maxwell's Equations in Matter
+     * Boundary Conditions
 
 ## Electronics
 ### Op-Amp
