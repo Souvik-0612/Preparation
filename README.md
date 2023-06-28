@@ -86,15 +86,14 @@ Prepare for Physics MSc exams
    * The Field of a Magnetized Object
    * The Auxiliary Field H
    * Ampere's law in Magnetized Materials
-      ** A Deceptive Parallel 
-      ** Boundary Conditions 
+    * Boundary Conditions 
    *  Linear and Nonlinear Media 
-      ** Magnetic Susceptibility and Permeability
-      ** Ferromagnetism 
+      * Magnetic Susceptibility and Permeability
+      * Ferromagnetism 
 
-### Electrodynamics(Electromagnetism)
+<!-- ### Electrodynamics(Electromagnetism)
    * Electromotive Force
-     ** Ohm's Law 
+     * Ohm's Law 
      ** Electromotive Force
      ** Motional emf 
    * Electromagnetic Induction 
@@ -108,7 +107,7 @@ Prepare for Physics MSc exams
      ** Maxwell's Equations
      ** Magnetic Charge 
      ** Maxwell's Equations in Matter
-     ** Boundary Conditions
+     ** Boundary Conditions -->
 
 ## Electronics
 ### Op-Amp
