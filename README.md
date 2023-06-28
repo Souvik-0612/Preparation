@@ -65,9 +65,40 @@ Prepare for Physics MSc exams
    * Energy in Dielectric Systems
    * Forces on Dielectrics  
 ### Magnetostatics
-   * 
+   * The Lorentz Force Law
+   * The Biot-Savart Law
+   * The Divergence and Curl of B
+   * Magnetic Vector Potential
+   * Magnetostatic Boundary Conditions
+   * Multipole Expansion of The Vector Potential
+   * Magnetization
+   * Torques and Forces on Magnetic Dipoles
+   * The Field of a Magnetized Object
+   * The Auxiliary Field H
+   * Ampere's law in Magnetized Materials
+      ** A Deceptive Parallel 
+      ** Boundary Conditions 
+   *  Linear and Nonlinear Media 
+      ** Magnetic Susceptibility and Permeability
+      ** Ferromagnetism 
+
 ### Electrodynamics(Electromagnetism)
-   * 
+   * Electromotive Force
+     ** Ohm's Law 
+     ** Electromotive Force
+     ** Motional emf 
+   * Electromagnetic Induction 
+     ** Faraday's Law 
+     ** The Induced Electric Field
+     ** Inductance 
+     ** Energy in Magnetic Fields
+   *Maxwell's Equations
+     ** Electrodynamics Before Maxwell
+     ** How Maxwell Fixed Ampere's Law
+     ** Maxwell's Equations
+     ** Magnetic Charge 
+     ** Maxwell's Equations in Matter
+     ** Boundary Conditions
 
 ## Electronics
 ### Op-Amp
