@@ -135,6 +135,7 @@ Prepare for Physics MSc exams
 
 ## Kinetic theory of gas and Thermodynamics
 ### Kinetic theory of gas
+* Maxwell's distribution
 ### Thermodynamics
 
 ## Modern physics
