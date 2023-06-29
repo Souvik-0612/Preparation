@@ -35,7 +35,8 @@ Prepare for Physics MSc exams
 ``` math
 \begin{bmatrix}\tau_1 \\ \tau_2 \\ \tau_3 \end{bmatrix} = \begin{bmatrix}I_1\dot\omega_1 + (I_3 - I_2)\omega_2 \omega_3 \\ I_2\dot\omega_2 + (I_1 - I_3)\omega_1 \omega_3 \\ I_3\dot\omega_3 + (I_2 - I_1)\omega_1 \omega_2 \end{bmatrix}
 ```
-* Gyroscope
+    * Free symetric top spin(Chandler Wobble of earth)
+![](EarthChandlerWobble.gif)
 ### Special theory of relativity
 * Kinematics 
 * Dynamics
