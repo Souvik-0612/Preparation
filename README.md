@@ -103,7 +103,7 @@ Prepare for Physics MSc exams
      * The Induced Electric Field
      * Inductance 
      * Energy in Magnetic Fields
-   *Maxwell's Equations
+   * Maxwell's Equations
      * Electrodynamics Before Maxwell
      * How Maxwell Fixed Ampere's Law
      * Maxwell's Equations
