@@ -1,6 +1,9 @@
 # Preparation
 Prepare for Physics MSc exams
 
+> ##### Albert Einstein
+>
+> *I have no special talents. I am only passionately curious.*
 ## Classical mechanics
 ### Newton's law
 * Plane polar form of position, velocity and accelaration
