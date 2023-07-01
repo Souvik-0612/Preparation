@@ -152,7 +152,7 @@ Prepare for Physics MSc exams
         * Michelson's interferometer
     * Multiple beam interferometer
         * Febry-Perot interferometry
-* Diffraction
+* **Diffraction**
     * Fraunhofer diffraction
     * Fresnel diffraction
 * Polarization
